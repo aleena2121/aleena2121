@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Aleena</h1>
-<h3 align="left">CSE Undergrad | Growing one project and commit at a time 🌱</h3>
+<h3 align="left">Software Enigineer | Growing one project and commit at a time 🌱</h3>
 
 
 
